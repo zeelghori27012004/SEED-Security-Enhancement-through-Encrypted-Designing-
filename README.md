@@ -3,6 +3,9 @@
 **WEBSITE LINK**
 https://seeddmproject.wixsite.com/my-site
 
+**you tube video**
+https://www.youtube.com/watch?v=2SwZhdzVdPM
+
 S.E.E.D works on the principle of hashing. A concept that is based on a modulus operator, functioned by a key. S.E.E.D designs a matrix, similar to the one made by the captcha, by taking the size of the matrix and the colors used as inputs from the user. A standard key is selected for the filling of the matrix in the form a hash table.
 
 Digitalization and Cyber Crime go hand in hand. As the world is going online, so is the crime. S.E.E.D is an initiative to get rid of this problem. Our current online security system, though pretty efficient, can still be improved. S.E.E.D aims at just that. 
