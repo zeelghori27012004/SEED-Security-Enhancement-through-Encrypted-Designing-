@@ -10,5 +10,5 @@ Digitalization and Cyber Crime go hand in hand. As the world is going online, so
 The current system of online security consists of username-password along with captcha. But S.E.E.D provides  an additional security interface, acting as a two way authentication system, which gives additional security to the user, keeping unwanted guests at bay.
 
 The concept, though currently simple, can be seen as very efficient. It can further be improved by the use of more complex knowledge. But currently still, S.E.E.D can be very efficient to improve online security.
-Hence, the main role of S.E.E.D would be to design such paintings according to the company’s need, supply them with a bunch of possible designs, and
-give them a matrix to be used as a replacement for the traditional captcha.
+
+Hence, the main role of S.E.E.D would be to design such paintings according to the company’s need, supply them with a bunch of possible designs, and give them a matrix to be used as a replacement for the traditional captcha.
